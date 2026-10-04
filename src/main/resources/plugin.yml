@@ -1,0 +1,11 @@
+main: ctp.px.CtpPlugin
+version: 1.0.0
+name: Ctp
+author: pxotitas
+description: A simple TPA plugin.
+api-version: '26.2'
+permissions:
+  tpa.use:
+    default: true
+  tpa.tpahere:
+    default: true
